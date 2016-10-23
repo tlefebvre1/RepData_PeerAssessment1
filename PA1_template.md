@@ -15,7 +15,7 @@ time <- format(datetime, "%H:%M:%S")
 Rversion <- version$version.string
 ```
  
-This document has been generated on 2016-10-23 at 22:50:25 using R version 3.2.3 (2015-12-10)
+This document has been generated on 2016-10-23 at 23:17:53 using R version 3.2.3 (2015-12-10)
 
 ## Loading and preprocessing the data
 
